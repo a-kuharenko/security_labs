@@ -32,7 +32,7 @@ const commands = {
     if (!dirObj) throw 'Unknown path';
     if (dirObj.type !== 'directory') throw 'This is not a directory!';
     if (!dirObj.rights.read.includes(state.user)) throw 'Permission denied';
-    state.updateCuurentDir(`${params[0]}/`);
+    state.updateCurrentDir(`${params[0]}/`);
   },
   mkdir: (state, params) => {
     if (params.length !== 1) throw 'Incorrect params length';

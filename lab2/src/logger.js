@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
-const log = (msg) => log(msg);
+const log = (msg) => console.log(msg);
 
-const logColored = (msg, color) => log(color, msg);
+const logColored = (msg, color) => console.log(color, msg);
 
 const logError = (msg) => console.error(msg);
 
