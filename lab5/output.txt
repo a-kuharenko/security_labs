@@ -1,0 +1,4 @@
+Data from input.txt file is 'hello world'
+encrypted data is '!�Z�.en:��};m�5�4�Q^��$�s�l����+y����@B=��KsUa�S4t�f��LB�åSn�:c�~Z��3���3ڀ�ٛN6������ �l��h�,�$��?g�g#=}+wc�'
+decrypted data is 'hello world'
+data is equal to decrypted
