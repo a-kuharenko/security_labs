@@ -25,3 +25,9 @@ How to run:
 2. `fill data to encrypt in input.txt file`
 3. `npm start`
 4. `see result in output.txt file`
+
+# Lab 6
+How to run:
+
+1. `cd lab6`
+2. `npm start`
