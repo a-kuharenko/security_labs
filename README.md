@@ -11,6 +11,12 @@ How to run:
 1. `cd lab2`
 2. `npm start`
 
+# Lab 3
+How to run:
+
+1. `cd lab6`
+2. `npm start`
+
 # Lab 4
 How to run:
 
